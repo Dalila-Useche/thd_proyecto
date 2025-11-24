@@ -40,13 +40,26 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 ## 🔍 Investigación de casos reales (obligatoria)
 Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
-- Caso IA:
-- Caso IoT:
-- Caso Big Data:
-- Caso Cloud:
-- Caso Blockchain:
-- Caso Ciberseguridad:
-- Caso RA/RV:
+Caso IA: Amazon utiliza IA para personalizar las recomendaciones de productos, aumentando ventas. Esto serviría para que CeramiArt sugiera piezas de cerámica según gustos del cliente.
+https://www.aboutamazon.com/news/innovation-at-amazon/how-amazons-recommendation-engine-works
+
+Caso IoT: Inditex/Zara usa tecnologías IoT en almacenes para controlar inventarios automáticamente. CeramiArt puede controlar humedad y temperatura para conservar bien la cerámica.
+https://www.inditex.com
+
+Caso Big Data: IKEA analiza grandes cantidades de datos para diseñar productos según tendencias reales del mercado. CeramiArt puede decidir qué estilos de cerámica producir.
+https://about.ikea.com/en/newsroom
+
+Caso Cloud: Netflix migró toda su infraestructura a la nube para mejorar estabilidad. CeramiArt puede alojar su tienda en la nube para que nunca se caiga.
+https://aws.amazon.com/solutions/case-studies/netflix/
+
+Caso Blockchain: LVMH usa blockchain para certificar autenticidad de productos de lujo. CeramiArt podría dar un certificado digital a cada pieza artesanal.
+https://www.lvmh.com/news-documents/news/lvmh-blockchain-aura/
+
+Caso Ciberseguridad: Shopify invierte en ciberseguridad para proteger tiendas online. CeramiArt aseguraría los pagos y los datos de los clientes.
+https://news.shopify.com
+
+Caso RA/RV: IKEA Place permite ver productos en realidad aumentada. CeramiArt podría mostrar sus jarrones o tazas en AR dentro de casa del cliente.
+https://apps.apple.com/us/app/ikea-place/id1279244498
 
 ---
 
