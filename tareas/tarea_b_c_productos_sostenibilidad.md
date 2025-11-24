@@ -63,9 +63,12 @@ https://apps.apple.com/us/app/ikea-place/id1279244498
 ---
 
 ## 🧠 Reflexión final
-- ¿Qué tecnología aporta más valor a los productos/servicios?
-- ¿Cuál genera mayor impacto sostenible?
-- ¿Qué combinación sería más eficiente para la empresa?
+La tecnología que aporta más valor directo es IA, porque mejora la experiencia del cliente y aumenta las ventas de forma inmediata.
 
+La que genera mayor impacto sostenible es Big Data, ya que evita producir inventario innecesario y reduce residuos.
+
+La combinación más eficiente para la empresa sería unir:
+IA + Big Data + Cloud,
+porque juntas permiten una tienda online rápida, personalizada y basada en datos reales del mercado.
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
