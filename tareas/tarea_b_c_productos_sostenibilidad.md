@@ -39,19 +39,19 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 ## 🔍 Investigación de casos reales (obligatoria)
 Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
-Caso IA: Amazon utiliza IA para personalizar las recomendaciones de productos, aumentando ventas. Esto serviría para que CeramiArt sugiera piezas de cerámica según gustos del cliente.
+Caso IA: Amazon utiliza IA para personalizar las recomendaciones de productos, aumentando ventas,quiza un producto que este en tendencia pueda sugerirlo a ese publico que lo busca. Esto serviría para que CeramiArt sugiera piezas de cerámica según gustos del cliente o tendencias.
 https://www.aboutamazon.com/news/innovation-at-amazon/how-amazons-recommendation-engine-works
 
-Caso IoT: Inditex/Zara usa tecnologías IoT en almacenes para controlar inventarios automáticamente. CeramiArt puede controlar humedad y temperatura para conservar bien la cerámica.
+Caso IoT: Inditex/Zara usa tecnologías IoT en almacenes para controlar inventarios automáticamente. CeramiArt puede controlar humedad y temperatura para conservar bien la cerámica, no solo de la ceramica que ya ha pasado por el proceso de coción si no de la que aún esta por cocer tiene un proceso de secado que debe ser muy lento para que no pierdan de golpe la humedad de las piezas.
 https://www.inditex.com
 
 Caso Big Data: IKEA analiza grandes cantidades de datos para diseñar productos según tendencias reales del mercado. CeramiArt puede decidir qué estilos de cerámica producir.
 https://about.ikea.com/en/newsroom
 
-Caso Cloud: Netflix migró toda su infraestructura a la nube para mejorar estabilidad. CeramiArt puede alojar su tienda en la nube para que nunca se caiga.
+Caso Cloud: Netflix migró toda su infraestructura a la nube para mejorar estabilidad. CeramiArt puede alojar su tienda en la nube para que nunca se caiga de esa forma esta segura y no pierda ninguna posible venta online.
 https://aws.amazon.com/solutions/case-studies/netflix/
 
-Caso Blockchain: LVMH usa blockchain para certificar autenticidad de productos de lujo. CeramiArt podría dar un certificado digital a cada pieza artesanal.
+Caso Blockchain: LVMH usa blockchain para certificar autenticidad de productos de lujo. CeramiArt podría dar un certificado digital a cada pieza artesanal para demostrar que cada pieza es única.
 https://www.lvmh.com/news-documents/news/lvmh-blockchain-aura/
 
 Caso Ciberseguridad: Shopify invierte en ciberseguridad para proteger tiendas online. CeramiArt aseguraría los pagos y los datos de los clientes.
@@ -69,6 +69,6 @@ La que genera mayor impacto sostenible es Big Data, ya que evita producir invent
 
 La combinación más eficiente para la empresa sería unir:
 IA + Big Data + Cloud,
-porque juntas permiten una tienda online rápida, personalizada y basada en datos reales del mercado.
+porque juntas permiten una tienda online rápida,segura, personalizada y basada en datos reales del mercado.
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
