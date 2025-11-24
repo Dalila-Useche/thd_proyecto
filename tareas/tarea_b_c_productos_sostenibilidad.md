@@ -24,15 +24,16 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 ## 🌱 Impacto en la economía sostenible y eficiente
 Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 
-| Tecnología | Ahorro energético | Reducción de residuos | Mejora operativa | Riesgos/limitaciones |
-|-----------|-------------------|-----------------------|------------------|----------------------|
-| IA | | | | |
-| IoT | | | | |
-| Big Data | | | | |
-| Cloud | | | | |
-| Blockchain | | | | |
-| Ciberseguridad | | | | |
-| RA/RV | | | | |
+| Tecnología     | Ahorro energético                               | Reducción de residuos                      | Mejora operativa               | Riesgos/limitaciones                                      |
+| -------------- | ----------------------------------------------- | ------------------------------------------ | ------------------------------ | --------------------------------------------------------- |
+| IA             | Optimiza procesos y evita sobreproducción       | Menos stock innecesario                    | Mejor predicción de demanda    | Dependencia del algoritmo                                 |
+| IoT            | Monitoriza condiciones para no perder productos | Evita roturas por mala humedad             | Control preciso de almacén     | Coste de sensores                                         |
+| Big Data       | Evita fabricar productos que no se venderán     | Disminuye inventario sobrante              | Mejor planificación            | Privacidad de datos                                       |
+| Cloud          | Reduce necesidad de servidores físicos          | Menos basura electrónica                   | Servicios más estables         | Dependencia del proveedor                                 |
+| Blockchain     | Evita productos falsos o defectuosos            | Menos devoluciones                         | Mayor trazabilidad             | Alto consumo energético si no se usa blockchain eficiente |
+| Ciberseguridad | Sistemas optimizados consumen menos             | Protege datos evitando copias innecesarias | Continuidad del negocio        | Coste de mantenimiento                                    |
+| RA/RV          | Evita fabricar piezas solo para muestra         | Menos devoluciones                         | Experiencia de compra mejorada | Requiere móvil compatible                                 |
+
 
 ---
 
