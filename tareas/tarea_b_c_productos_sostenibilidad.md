@@ -1,8 +1,7 @@
 # Tarea 2 · Relación de THD con productos/servicios, sostenibilidad e investigación
 
 ## 🏢 Empresa seleccionada
-Breve descripción de la empresa real o ficticia.
-
+CeramiArt Online es una tienda digital dedicada a la venta de cerámica artesanal fabricada por artesanos locales. La empresa ofrece tazas, platos, jarrones y piezas decorativas hechas a mano y distribuye sus productos a nivel nacional. Su objetivo es modernizar su negocio utilizando Tecnologías Habilitadoras Digitales (THD) para mejorar la experiencia del cliente, optimizar procesos y avanzar hacia un modelo más sostenible.
 ---
 
 ## 🧩 Relación entre THD y productos/servicios
